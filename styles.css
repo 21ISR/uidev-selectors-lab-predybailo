@@ -7,7 +7,7 @@ body {
 }
 
 /* Шапка сайта (тёмный фон, flex-строка, логотип слева, навигация справа) */
-.todo {
+.footer {
     background-color: #222;
     color: white;
     display: flex;
@@ -17,7 +17,7 @@ body {
 }
 
 /* Логотип / название компании в шапке */
-.todo {
+.header {
     font-size: 24px;
     font-weight: bold;
 }
