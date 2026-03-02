@@ -138,7 +138,7 @@ body {
 }
 
 /* Ссылки в блоке контактов */
-.contact-info {
+.contact-info>p>a {
     color: #ff9800;
     text-decoration: none;
 }
@@ -170,13 +170,13 @@ button {
 }
 
 /* Основная кнопка (оранжевая, для призыва к действию) */
-.btn_primary {
+.btn-primary {
     background-color: #ff9800;
     color: white;
 }
 
 /* Кнопка отправки формы */
-.btn_submit {
+.btn-submit {
     background-color: #ff9800;
     color: white;
 }
