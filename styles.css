@@ -106,7 +106,7 @@ body {
 }
 
 /* Изображение внутри карточки портфолио */
-.portfolio-item {
+.portfolio-item, img {
     width: 100%;
     max-width: 300px;
     border-radius: 10px;
@@ -162,7 +162,7 @@ body {
 }
 
 /* Базовая кнопка */
-.btn submit {
+button {
     padding: 10px 20px;
     font-size: 18px;
     border: none;
@@ -170,13 +170,13 @@ body {
 }
 
 /* Основная кнопка (оранжевая, для призыва к действию) */
-.btn primary {
+.btn_primary {
     background-color: #ff9800;
     color: white;
 }
 
 /* Кнопка отправки формы */
-.btn submit {
+.btn_submit {
     background-color: #ff9800;
     color: white;
 }
