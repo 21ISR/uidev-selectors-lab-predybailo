@@ -17,13 +17,13 @@ body {
 }
 
 /* Логотип / название компании в шапке */
-.header {
+.logo {
     font-size: 24px;
     font-weight: bold;
 }
 
 /* Навигационное меню — список ссылок в шапке (горизонтальный flex) */
-.todo {
+.nav-list {
     list-style: none;
     display: flex;
     gap: 20px;
